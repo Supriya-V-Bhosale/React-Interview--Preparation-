@@ -1,5 +1,7 @@
 # React-Interview--Preparation-
-
+*Q)When a user write a name as input capital it & show in h1. when the input is a number,
+if it is even say even otherwise say odd for evrything else show not valid input*
+ANS
 ```
 import {useState} from 'react';
 function isNumber(str){
