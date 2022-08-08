@@ -1,6 +1,7 @@
 # React-Interview--Preparation-
 
-```import {useState} from 'react';
+```
+import {useState} from 'react';
 function isNumber(str){
   return !isNaN(Number(str));
 }
@@ -43,7 +44,8 @@ export default function App(){
         <h1>{display(val)}</h1>
      </>
   )
-}```
+}
+```
 
 
 
