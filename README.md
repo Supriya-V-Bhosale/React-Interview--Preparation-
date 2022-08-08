@@ -1,9 +1,6 @@
 # React-Interview--Preparation-
 
 '''import {useState} from 'react';
-
-
-
 function isNumber(str){
   return !isNaN(Number(str));
 }
